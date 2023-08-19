@@ -1,7 +1,7 @@
 # video-game-library
 ## Getting Started
 
-To get started with GameHub, follow these steps:
+To get started with the video game library, follow the steps below.
 
 
 1. Clone this repository to your local machine.
