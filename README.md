@@ -9,3 +9,6 @@ To get started with the video game library, follow the steps below.
 3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first. 
 4. Add the API key to **src/services/api-client.ts**
 5. Run `npm run dev` to start the web server. 
+
+
+PROD: https://game-hub-alpha-ivory.vercel.app/
